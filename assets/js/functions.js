@@ -4,7 +4,7 @@ $(function() {
 	workLoad();
 	clientStuff();
 	
-	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '42px' });
+	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$(".biglink2").fitText(1.2);
 	
 });
