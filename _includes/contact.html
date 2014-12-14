@@ -1,0 +1,8 @@
+<section class="section-contact">
+  
+  <div class="contact-tag" id="contact">{% include icons/icon-contact.html %}</div>    <div class="mail-links">    {% for link in site.data.settings.social %}    <a href="mailto:{{ site.data.settings.email }}" class="icon-{{ link.icon }}"></a>    {% endfor %}  </div>
+ 
+  
+  <a class="biglink2" href="mailto:{{ site.data.settings.email }}">{{ site.data.settings.email }}</a>
+  
+</section>

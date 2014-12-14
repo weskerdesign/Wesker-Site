@@ -1,0 +1,32 @@
+.section-contact
+  text-align: center  height: 200px  background: url(../img/contactbg.png) center center  background-size: cover.contact-tag  max-width: 250px  padding-top: 15px  margin: 15px auto 0px  //background: pink  height: 85px  path    fill: white
+
+.mail-links  margin: 0px auto 10px  +display(none)  +justify-content(space-around)  +flex-wrap(wrap)  //background: pink      a    display: block    +size(38px)    line-height: 50px    color: white    font-size: 38px    margin: 20px    position: relative    
+    
+    
+    &:after
+      content: ''
+      display: block
+      +position(absolute, 0px 0px 0px 0px)
+      margin: -2px
+      opacity: 1
+      +transition()
+      
+    &:hover:after
+      +transform(scale(1.5))
+      opacity: 0
+
+.bar
+  width: 250px
+  height: 0px
+  border-top: 4px solid $accent
+  margin: 0px auto 50px
+
+.biglink
+  display: inline-block
+  font:
+    size: 10px
+    weight: 300
+  line-height: 1
+  width: 90%
+  margin: 0px auto  background: url(../img/contactbg.png)  background-repeat: no-repeat  //background: pink  height: 350px  margin: 0px auto  .biglink2  display: inline-block  font:    size: 12px    weight: 300  line-height: 1  width: 35%  margin: 0 auto  //background: pink      @media (max-width: 750px)  .biglink2    display: none          .mail-links    margin: -20px auto 10px    +display(flex)    +justify-content(space-around)    +flex-wrap(wrap)          a      display: block      //background: $accent      +size(150px)      line-height: 50px      color: white      font-size: 48px      margin: 20px      position: relative                         
