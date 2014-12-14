@@ -1,5 +1,5 @@
 ---
-title: Fresh It Up
+title: Smartfix
 ---
 
-![Fresh It Up](assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Smartfix](assets/img/work/proj-5/sf-for-web.jpg)
