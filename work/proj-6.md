@@ -1,5 +1,5 @@
 ---
-title: Timeline Page
+title: Motorcycle & Friend Expo
 ---
 
-![Timeline Page](assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)
+![Motorcycle & Friend Expo](assets/img/work/proj-6/motorshow-for-web.jpg)

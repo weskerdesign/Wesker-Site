@@ -19,9 +19,8 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Graphic Designer, Freelancer based in Sydney'
+
 
 #-------------------------------
 # About Section
@@ -29,7 +28,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **G’day and welcome to my site.** I am an enthusiastic and creative Graphic designer with over 5 years work experience in both print and digital design fields. Want to make something look awesome? We can do it together.
+  **G’day and welcome to my creative hub.** I am an enthusiastic and creative Graphic Designer with over five years’ experience in both print and digital design fields. If you want to make something looking outstanding, let me know – we can do it together!
 
 
 skills:
@@ -51,8 +50,8 @@ projects:
 - {name: Chermside Galleria, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Holiday & Travel Show, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Smartfix, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Motorcycle & Friend Expo, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Odma|2015, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
