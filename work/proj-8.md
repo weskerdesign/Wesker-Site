@@ -1,5 +1,5 @@
 ---
-title: "Stripes & Co"
+title: "All Craft Events"
 ---
 
-![Stripes & Co](assets/img/work/proj-8/stripes-co-NickZoutendijk.jpg)
+![All Craft Events](assets/img/work/proj-8/craft-for-web.jpg)
